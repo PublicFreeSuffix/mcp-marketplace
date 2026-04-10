@@ -1,1 +1,0 @@
-{"mcpServers": {"openrpc": {"command": "npx", "args": ["-y", "openrpc-mcp-server"]}}}

@@ -1,1 +1,0 @@
-{"mcpServers": {"uiflowchartcreator": {"command": "node", "args": ["path/to/uiflowchartcreator/build/index.js"], "env": {}}}}

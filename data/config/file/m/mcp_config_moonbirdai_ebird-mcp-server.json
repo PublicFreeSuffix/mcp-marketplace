@@ -1,1 +1,0 @@
-{"mcpServers": {"ebird-api": {"command": "npx", "args": ["ebird-mcp-server", "--api-key", "YOUR_EBIRD_API_KEY"]}}}

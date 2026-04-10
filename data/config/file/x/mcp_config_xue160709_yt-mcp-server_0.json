@@ -1,1 +1,0 @@
-{"mcpServers": {"yt-mcp-server": {"command": "node", "args": ["/absolute/path/to/yt-mcp-server/dist/index.js"]}}}

@@ -1,1 +1,0 @@
-{"mcpServers": {"mixpanel-analytics": {"command": "npx", "args": ["-y", "mixpanel-mcp-server", "--token", "YOUR_MIXPANEL_TOKEN"]}}}

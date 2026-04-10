@@ -1,1 +1,0 @@
-{"mcpServers": {"repl": {"command": "/path/to/python/env/bin/python", "args": ["-m", "repl"]}}}

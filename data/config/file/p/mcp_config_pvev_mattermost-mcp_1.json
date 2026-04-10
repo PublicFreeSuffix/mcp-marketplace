@@ -1,1 +1,0 @@
-{"mcpServers": {"mattermost": {"command": "node", "args": ["/path/to/mattermost-mcp/build/index.js"]}}}

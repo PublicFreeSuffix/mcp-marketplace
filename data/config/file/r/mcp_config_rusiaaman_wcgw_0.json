@@ -1,1 +1,0 @@
-{"mcpServers": {"wcgw": {"command": "uv", "args": ["tool", "run", "--python", "3.12", "wcgw@latest"]}}}

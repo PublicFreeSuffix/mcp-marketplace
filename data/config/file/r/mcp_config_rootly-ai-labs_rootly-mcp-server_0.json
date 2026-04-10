@@ -1,1 +1,0 @@
-{"mcpServers": {"rootly": {"command": "uvx", "args": ["--from", "rootly-mcp-server", "rootly-mcp-server"], "env": {"ROOTLY_API_TOKEN": "<YOUR_ROOTLY_API_TOKEN>"}}}}

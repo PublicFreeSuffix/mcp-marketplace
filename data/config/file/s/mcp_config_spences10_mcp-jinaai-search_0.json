@@ -1,1 +1,0 @@
-{"mcpServers": {"jinaai-search": {"command": "node", "args": ["-y", "mcp-jinaai-search"], "env": {"JINAAI_API_KEY": "your-jinaai-api-key"}}}}

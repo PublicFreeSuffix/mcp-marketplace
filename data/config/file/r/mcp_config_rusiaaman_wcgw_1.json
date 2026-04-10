@@ -1,1 +1,0 @@
-{"mcpServers": {"wcgw": {"command": "wsl.exe", "args": ["uv", "tool", "run", "--python", "3.12", "wcgw@latest"]}}}

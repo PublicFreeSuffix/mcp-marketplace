@@ -1,1 +1,0 @@
-{"mcpServers": {"apple-books-mcp": {"command": "uv", "args": ["--directory", "/path/to/apple-books-mcp/", "run", "apple_books_mcp", "-v"]}}}

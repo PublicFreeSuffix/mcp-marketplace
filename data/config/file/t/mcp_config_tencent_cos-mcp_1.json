@@ -1,1 +1,0 @@
-{"mcpServers": {"cos-mcp": {"command": "npx", "args": ["cos-mcp", "--cos-config='{\"Region\":\"yourRegion\",\"Bucket\":\"yourBucket\",\"SecretId\":\"yourSecretId\",\"SecretKey\":\"yourSecretKey\",\"DatasetName\":\"yourDatasetname\"}'"]}}}

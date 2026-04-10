@@ -1,1 +1,0 @@
-{"mcpServers": {"nodit": {"command": "npx", "args": ["@noditlabs/nodit-mcp-server@latest"], "env": {"NODIT_API_KEY": "****"}}}}

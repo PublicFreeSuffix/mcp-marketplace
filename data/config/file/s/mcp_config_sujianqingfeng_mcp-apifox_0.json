@@ -1,1 +1,0 @@
-{"mcpServers": {"apifox": {"command": "npx", "args": ["-y", "mcp-apifox@latest"], "env": {"APIFOX_ACCESS_TOKEN": ""}}}}

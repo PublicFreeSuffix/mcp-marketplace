@@ -1,1 +1,0 @@
-{"mcpServers": {"shadcn-ui-server": {"command": "npx", "args": ["-y", "shadcn-ui-mcp-server"]}}}

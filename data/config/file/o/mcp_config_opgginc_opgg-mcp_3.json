@@ -1,1 +1,0 @@
-{"mcpServers": {"opgg-mcp": {"command": "cmd", "args": ["/c", "npx", "mcp-remote", "https://mcp-api.op.gg/mcp/sse"]}}}

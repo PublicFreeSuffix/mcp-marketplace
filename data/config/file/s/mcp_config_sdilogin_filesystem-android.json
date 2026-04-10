@@ -1,1 +1,0 @@
-{"mcpServers": {"Android source code": {"command": "/path/to/uv", "args": ["run", "--with", "mcp[cli]", "mcp", "run", "./filesystem_android/main.py"]}}}

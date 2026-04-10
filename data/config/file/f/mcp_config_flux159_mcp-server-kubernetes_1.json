@@ -1,1 +1,0 @@
-{"mcpServers": {"mcp-server-kubernetes": {"command": "node", "args": ["/path/to/your/mcp-server-kubernetes/dist/index.js"]}}}

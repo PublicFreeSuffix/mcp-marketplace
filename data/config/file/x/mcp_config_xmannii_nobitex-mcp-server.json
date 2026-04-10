@@ -1,1 +1,0 @@
-{"mcpServers": {"nobitex": {"command": "npm", "args": ["--prefix", "/path/to/this/repo", "run", "start"]}}}

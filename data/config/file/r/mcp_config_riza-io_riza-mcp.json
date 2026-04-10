@@ -1,1 +1,0 @@
-{"mcpServers": {"riza-server": {"command": "npx", "args": ["@riza-io/riza-mcp"], "env": {"RIZA_API_KEY": "your-api-key"}}}}

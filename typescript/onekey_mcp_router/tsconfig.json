@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    /* Project Structure */
+    "rootDir": "./src",     // Tells the compiler where to find your .ts files
+    "outDir": "./dist",                       // Tells the compiler to output compiled JS here
+
+    /* JavaScript Output Settings */
+    "target": "es2020",                    // Compile to modern JavaScript syntax
+    "module": "commonjs",                  // Use CommonJS module system (standard for Node.js)
+    "esModuleInterop": true,               // Allows `import * as dotenv from 'dotenv'` style imports
+
+    /* Type Checking and Quality */
+    "strict": true,                        // Enables all strict type-checking options
+    "forceConsistentCasingInFileNames": true, // Ensures consistent file naming
+    "skipLibCheck": true,                  // Speeds up compilation
+
+    /* Environment Setup */
+    "lib": ["es2020"],                     // Include standard library features (like Array methods)
+  },
+  "include": [
+    "./src/*.ts"     // Explicitly include all TypeScript files in your source directory
+  ]
+}

@@ -1,1 +1,0 @@
-{"mcpServers": {"npmAnalyzer": {"transport": "stdio", "command": "npx", "args": ["-y", "@nekzus/mcp-server"]}}}

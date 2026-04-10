@@ -1,1 +1,0 @@
-{"mcpServers": {"obs": {"command": "node", "args": ["<obs-mcp_root>/build/index.js"], "env": {"OBS_WEBSOCKET_PASSWORD": "<password_from_obs>"}}}}

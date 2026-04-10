@@ -1,1 +1,0 @@
-{"mcpServers": {"prd-creator": {"command": "npx", "args": ["-y", "prd-creator-mcp"]}}}

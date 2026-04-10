@@ -1,1 +1,0 @@
-{"mcpServers": {"http-rquest": {"command": "pipx", "args": ["run", "mcp-rquest"]}}}

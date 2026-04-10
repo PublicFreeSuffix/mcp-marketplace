@@ -1,1 +1,0 @@
-{"mcpServers": {"tfnsw-realtime-alerts": {"command": "npx", "args": ["-y", "tfnsw-realtime-alerts-mcp-server"], "env": {"NSW_TRANSPORT_API_KEY": "your_api_key_here"}}}}

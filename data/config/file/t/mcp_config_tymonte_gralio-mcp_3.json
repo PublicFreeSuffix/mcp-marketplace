@@ -1,1 +1,0 @@
-{"mcpServers": {"gralio_remote": {"command": "npx", "args": ["-y", "supergateway", "--sse", "https://gralio.ai/mcp/sse"]}}}

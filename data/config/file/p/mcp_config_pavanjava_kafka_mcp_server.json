@@ -1,1 +1,0 @@
-{"mcpServers": {"kafka": {"command": "python", "args": ["<PATH TO PROJECTS>/main.py"]}}}

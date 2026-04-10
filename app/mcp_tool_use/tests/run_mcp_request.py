@@ -19,7 +19,8 @@ def call_mcp_api_demo():
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36',
             "Content-Type": "application/json"
         }
-        url = 'http://127.0.0.1:5000/api/query'
+        # url = 'http://127.0.0.1:5000/api/query'
+        url = "https://agent.deepnlp/api/query"
         input_params = {
             "server_id": "amap-amap-sse", 
             "tool_name": 'maps_weather',
@@ -32,7 +33,7 @@ def call_mcp_api_demo():
         print (result_json)
 
     except Exception as e:
-        print (e)
+        print (f"Failed to process call_mcp_api_demo {e}")
 
 def main():
     call_mcp_api_demo()

@@ -1,1 +1,0 @@
-{"mcpServers": {"my-php-server": {"command": "php", "args": ["/path/to/your/project/mcp-server.php"]}}}

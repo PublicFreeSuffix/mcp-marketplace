@@ -1,1 +1,0 @@
-{"mcpServers": {"x-twitter-mcp": {"command": "uv", "args": ["--directory", "/path/to/x-twitter-mcp-server", "run", "x-twitter-mcp-server"], "env": {"PYTHONUNBUFFERED": "1"}}}}

@@ -1,1 +1,0 @@
-{"mcpServers": {"agentforce": {"command": "python", "args": ["/path/to/your/agentforce_mcp_server.py"]}}}

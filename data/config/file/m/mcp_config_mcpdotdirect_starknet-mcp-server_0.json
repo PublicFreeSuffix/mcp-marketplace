@@ -1,1 +1,0 @@
-{"mcpServers": {"starknet-mcp-server": {"command": "npx", "args": ["@mcpdotdirect/starknet-mcp-server"]}, "starknet-mcp-http": {"command": "npx", "args": ["@mcpdotdirect/starknet-mcp-server", "http"]}}}

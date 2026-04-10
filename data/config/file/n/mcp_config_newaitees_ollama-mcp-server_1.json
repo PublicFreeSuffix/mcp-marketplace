@@ -1,1 +1,0 @@
-{"mcpServers": {"ollama-MCP-server": {"command": "python", "args": ["-m", "ollama_mcp_server"], "env": [{"model": "llama3:latest"}]}}}

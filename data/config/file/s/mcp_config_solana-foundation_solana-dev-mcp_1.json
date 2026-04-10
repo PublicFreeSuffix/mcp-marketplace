@@ -1,1 +1,0 @@
-{"mcpServers": {"solana-dev": {"command": "node", "args": ["<full-path-to-repo>/dist/index.js"]}}}

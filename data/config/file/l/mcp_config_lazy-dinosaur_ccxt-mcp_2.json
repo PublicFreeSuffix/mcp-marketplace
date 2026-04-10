@@ -1,1 +1,0 @@
-{"mcpServers": {"ccxt-mcp": {"command": "npx", "args": ["-y", "@lazydino/ccxt-mcp", "--config", "/path/to/ccxt-accounts.json"]}}}

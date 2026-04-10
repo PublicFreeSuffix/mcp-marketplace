@@ -1,0 +1,43 @@
+{
+  "name": "onekey_mcp_router",
+  "version": "1.0.0",
+  "description": "DeepNLP OneKey MCP Router to Access Commercial MCP servers | MCPs AI Agent Revenue Sharing Initiative",
+  "keywords": [
+    "mcp",
+    "marketplace",
+    "onekey",
+    "registry",
+    "ai-agent",
+    "tool-use"
+  ],
+  "homepage": "https://www.deepnlp.org/doc/onekey_mcp_router",
+  "bugs": {
+    "url": "https://github.com/aiagenta2z/onekey_mcp_router/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiagenta2z/mcp-marketplace.git"
+  },
+  "license": "ISC",
+  "author": "aiagenta2z",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "ts-node runExample.js",
+    "start": "ts-node ./onekey_mcp_router/src/index.ts"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

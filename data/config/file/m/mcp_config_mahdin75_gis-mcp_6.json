@@ -1,1 +1,0 @@
-{"mcpServers": {"gis-mcp": {"command": "C:\\path\\to\\gis-mcp\\.venv\\Scripts\\python", "args": ["-m", "gis_mcp"]}}}

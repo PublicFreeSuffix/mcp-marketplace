@@ -1,1 +1,0 @@
-{"mcpServers": {"serper-search-server": {"command": "/path/to/serper-search-server/build/index.js", "env": {"SERPER_API_KEY": "your_api_key_here"}}}}

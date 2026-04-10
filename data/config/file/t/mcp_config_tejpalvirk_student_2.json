@@ -1,1 +1,0 @@
-{"mcpServers": {"student": {"command": "docker", "args": ["run", "--rm", "-i", "mcp/student"]}}}

@@ -1,1 +1,0 @@
-{"mcpServers": {"filesystem": {"command": "ruby", "args": ["/Users/your_username/file_system_mcp/file_system_mcp.rb", "/Users/your_username/Desktop", "/path/to/other/allowed/dir"]}}}

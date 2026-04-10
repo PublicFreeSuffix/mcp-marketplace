@@ -1,1 +1,0 @@
-{"mcpServers": {"anilist": {"command": "npx", "args": ["-y", "anilist-mcp"], "env": {"ANILIST_TOKEN": "your_api_token"}}}}

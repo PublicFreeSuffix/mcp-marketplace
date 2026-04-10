@@ -1,1 +1,0 @@
-{"mcpServers": {"tts-mcp": {"command": "npx", "args": ["-p", "tts-mcp", "tts-mcp-server", "--voice", "nova", "--model", "gpt-4o-mini-tts"], "env": {"OPENAI_API_KEY": "your-openai-api-key"}}}}

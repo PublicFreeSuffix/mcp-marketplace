@@ -1,1 +1,0 @@
-{"mcpServers": {"opgg-esports": {"command": "npx", "args": ["-y", "@opgg/esports-mcp"]}}}

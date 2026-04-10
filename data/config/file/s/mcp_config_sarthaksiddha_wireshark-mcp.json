@@ -1,1 +1,0 @@
-{"mcpServers": {"wireshark": {"command": "python", "args": ["/path/to/wireshark-mcp/mcp_server.py", "--stdio"]}}}

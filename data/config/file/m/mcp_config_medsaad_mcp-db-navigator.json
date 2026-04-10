@@ -1,1 +1,0 @@
-{"mcpServers": {"mysql-navigator": {"command": "mcp-db", "args": ["--config", "/absolute/path/to/your/.env"]}}}

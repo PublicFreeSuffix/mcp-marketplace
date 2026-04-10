@@ -1,1 +1,0 @@
-{"mcpServers": {"UNS_MCP": {"command": "python", "args": ["-m", "uns_mcp"], "env": {"UNSTRUCTURED_API_KEY": "<your-key>"}}}}

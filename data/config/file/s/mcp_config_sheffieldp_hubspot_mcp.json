@@ -1,1 +1,0 @@
-{"mcpServers": {"hubspot": {"command": "docker", "args": ["run", "-i", "--rm", "buryhuang/mcp-hubspot:latest"]}}}

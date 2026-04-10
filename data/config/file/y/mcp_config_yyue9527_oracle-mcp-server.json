@@ -1,1 +1,0 @@
-{"mcpServers": {"oracle-mcp-server": {"url": "http://{server-ip}:{server-port}/sse", "enabled": true}}}

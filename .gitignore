@@ -1,0 +1,16 @@
+__pycache__/
+*__pycache__/
+*.DS_store
+tests/
+release/
+.idea/
+*.agtm/
+*.npm-cache/
+typescript/dist/
+typescript/node_modules
+*node_modules
+typescript/test
+*/__pycache__
+*__pycache__*
+*egg-info*
+

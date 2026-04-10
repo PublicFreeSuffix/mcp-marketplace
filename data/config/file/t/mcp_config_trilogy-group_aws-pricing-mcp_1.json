@@ -1,1 +1,0 @@
-{"mcpServers": {"AWS EC2 Pricing MCP": {"command": "docker", "args": ["run", "--rm", "-i", "--network", "none", "aws-pricing-mcp"]}}}

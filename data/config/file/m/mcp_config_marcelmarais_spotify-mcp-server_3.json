@@ -1,1 +1,0 @@
-{"mcpServers": {"spotify": {"command": "node", "args": ["~/../spotify-mcp-server/build/index.js"], "autoApprove": ["getListeningHistory", "getNowPlaying"]}}}

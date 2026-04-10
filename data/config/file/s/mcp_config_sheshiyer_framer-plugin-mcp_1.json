@@ -1,1 +1,0 @@
-{"mcpServers": {"framer-plugin": {"command": "node", "args": ["/path/to/framer-plugin-mcp/build/index.js"]}}}

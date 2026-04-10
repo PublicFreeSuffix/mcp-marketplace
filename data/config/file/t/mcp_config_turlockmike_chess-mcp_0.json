@@ -1,1 +1,0 @@
-{"mcpServers": {"chess": {"command": "docker", "args": ["run", "--rm", "-i", "pab1it0/chess-mcp"]}}}

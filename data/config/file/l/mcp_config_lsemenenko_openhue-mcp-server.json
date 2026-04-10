@@ -1,1 +1,0 @@
-{"mcpServers": {"hue": {"command": "node", "args": ["/absolute/path/to/build/index.js"]}}}

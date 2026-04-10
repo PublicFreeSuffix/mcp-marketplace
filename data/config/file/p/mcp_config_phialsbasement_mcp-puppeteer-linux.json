@@ -1,1 +1,0 @@
-{"mcpServers": {"puppeteer": {"command": "npx", "args": ["ts-node", "/path/to/index.ts"]}}}

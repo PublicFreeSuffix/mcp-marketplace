@@ -1,1 +1,0 @@
-{"mcpServers": {"web-search": {"command": "node", "args": ["/path/to/web-search/build/index.js"]}}}

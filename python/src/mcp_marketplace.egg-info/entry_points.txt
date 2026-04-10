@@ -1,0 +1,2 @@
+[console_scripts]
+mcpm = mcp_marketplace.cli:cli

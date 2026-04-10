@@ -1,1 +1,0 @@
-{"mcpServers": {"imdb_server": {"command": "/path/to/your/python", "args": ["/path/to/imdb_server.py"], "env": {"RAPID_API_KEY_IMDB": "your_api_key_here"}}}}

@@ -1,1 +1,0 @@
-{"mcpServers": {"stockflow": {"command": "python", "args": ["path/to/stockflow.py"]}}}

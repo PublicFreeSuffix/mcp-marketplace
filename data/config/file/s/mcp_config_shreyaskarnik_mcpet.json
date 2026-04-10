@@ -1,1 +1,0 @@
-{"mcpServers": {"mcpet": {"command": "node", "args": ["/path/to/mcpet/build/index.js"], "env": {"PET_DATA_DIR": "/path/to/writable/directory"}}}}

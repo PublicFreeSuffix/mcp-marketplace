@@ -1,1 +1,0 @@
-{"mcpServers": {"modal-mcp-server": {"command": "uv", "args": ["--project", "/path/to/modal-mcp-server", "run", "/path/to/modal-mcp-server/src/modal_mcp/server.py"]}}}

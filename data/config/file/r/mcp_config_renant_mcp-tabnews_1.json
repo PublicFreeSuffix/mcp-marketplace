@@ -1,1 +1,0 @@
-{"mcpServers": {"mcp-tabnews": {"command": "npm", "args": ["exec", "--", "@smithery/cli@latest", "run", "@renant/mcp-tabnews"]}}}

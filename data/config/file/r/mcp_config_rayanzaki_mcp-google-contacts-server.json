@@ -1,1 +1,0 @@
-{"mcpServers": {"google-contacts-server": {"command": "uv", "args": ["--directory", "/path/to/mcp-google-contacts-server", "run", "main.py"], "disabled": false, "autoApprove": []}}}

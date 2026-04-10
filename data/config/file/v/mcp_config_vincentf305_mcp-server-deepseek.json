@@ -1,1 +1,0 @@
-{"mcpServers": {"deepseek-server": {"command": "docker", "args": ["run", "-i", "--rm", "-e", "DEEPSEEK_API_KEY", "mcp_server_deepseek"], "env": {"DEEPSEEK_API_KEY": "your_api_key_here"}}}}

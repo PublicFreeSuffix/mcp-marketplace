@@ -1,1 +1,0 @@
-{"mcpServers": {"weather": {"command": "emcee", "args": ["https://api.weather.gov/openapi.json"]}}}

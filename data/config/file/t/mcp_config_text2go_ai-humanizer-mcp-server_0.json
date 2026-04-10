@@ -1,1 +1,0 @@
-{"mcpServers": {"ai-humanizer": {"command": "npx", "args": ["-y", "ai-humanizer-mcp-server"]}}}

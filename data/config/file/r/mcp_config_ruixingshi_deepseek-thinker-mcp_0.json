@@ -1,1 +1,0 @@
-{"mcpServers": {"deepseek-thinker": {"command": "npx", "args": ["-y", "deepseek-thinker-mcp"], "env": {"API_KEY": "<Your API Key>", "BASE_URL": "<Your Base URL>"}}}}

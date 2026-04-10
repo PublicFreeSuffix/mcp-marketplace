@@ -1,1 +1,0 @@
-{"mcpServers": {"solana-dev": {"command": "ts-node", "args": ["<full-path-to-repo>/index.ts"]}}}

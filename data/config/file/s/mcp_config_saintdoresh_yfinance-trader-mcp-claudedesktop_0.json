@@ -1,1 +1,0 @@
-{"mcpServers": {"yfinance-trader": {"command": "py", "args": ["-3.13", "path/to/your/main.py"]}}}

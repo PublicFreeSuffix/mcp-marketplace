@@ -1,1 +1,0 @@
-{"mcpServers": {"tecton": {"command": "uv", "args": ["--directory", "<path-to-your-local-clone>", "run", "mcp", "run", "src/tecton_mcp/mcp_server/server.py"]}}}

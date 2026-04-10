@@ -1,1 +1,0 @@
-{"mcpServers": {"chess": {"command": "uv", "args": ["--directory", "<full path to chess-mcp directory>", "run", "src/chess_mcp/main.py"]}}}

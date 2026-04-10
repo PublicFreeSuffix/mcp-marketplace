@@ -1,1 +1,0 @@
-{"mcpServers": {"pinata": {"command": "npx", "args": ["pinata-mcp", "/path/to/allowed/directory"], "env": {"PINATA_JWT": "<YOUR_JWT>", "GATEWAY_URL": "example.mypinata.cloud"}}}}

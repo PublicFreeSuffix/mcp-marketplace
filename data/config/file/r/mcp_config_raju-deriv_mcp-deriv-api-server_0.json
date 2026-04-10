@@ -1,1 +1,0 @@
-{"mcpServers": {"deriv-api-mcp": {"command": "uv", "args": ["--directory", "/Users/raju/Sites/deriv/mcp-deriv-api-server", "run", "server.py"]}}}

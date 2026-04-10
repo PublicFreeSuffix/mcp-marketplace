@@ -1,1 +1,0 @@
-{"mcpServers": {"minio-mcp": {"command": "python", "args": ["path/to/minio-mcp/src/minio_mcp_server/server.py"]}}}

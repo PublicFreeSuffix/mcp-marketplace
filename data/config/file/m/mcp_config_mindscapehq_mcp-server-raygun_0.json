@@ -1,1 +1,0 @@
-{"mcpServers": {"raygun": {"command": "npx", "args": ["-y", "@raygun.io/mcp-server-raygun"], "env": {"RAYGUN_PAT_TOKEN": "your-pat-token-here"}}}}

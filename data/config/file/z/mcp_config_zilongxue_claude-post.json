@@ -1,1 +1,0 @@
-{"mcpServers": {"email": {"command": "/Users/username/.local/bin/uv", "args": ["--directory", "/path/to/claude-post/src/email_client", "run", "email-client"]}}}

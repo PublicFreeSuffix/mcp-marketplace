@@ -1,1 +1,0 @@
-{"mcpServers": {"terminal-mcp": {"command": "node", "args": ["/path/to/terminal-mcp-server/build/index.js"], "env": {}}}}

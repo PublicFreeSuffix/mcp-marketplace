@@ -1,1 +1,0 @@
-{"mcpServers": {"baseline-mcp-server": {"command": "docker", "args": ["run", "-i", "baseline-mcp-server:latest"]}}}

@@ -1,1 +1,0 @@
-{"mcpServers": {"prefect": {"command": "uvx", "args": ["prefect-mcp-server"], "env": {}}}}

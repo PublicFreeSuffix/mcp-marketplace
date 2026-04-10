@@ -1,1 +1,0 @@
-{"mcpServers": {"harvester": {"command": "/path/to/harvester-mcp-server", "args": ["--kubeconfig", "/path/to/kubeconfig.yaml", "--log-level", "info"]}}}

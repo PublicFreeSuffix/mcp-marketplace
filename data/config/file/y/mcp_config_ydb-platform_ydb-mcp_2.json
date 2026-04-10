@@ -1,1 +1,0 @@
-{"mcpServers": {"ydb": {"command": "pipx", "args": ["run", "ydb-mcp", "--ydb-endpoint", "grpc://localhost:2136/local"]}}}
